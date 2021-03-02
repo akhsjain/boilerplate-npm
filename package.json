@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.1",
 	"author": "Akshay Jain",
 	"description": "Demo Project",
 	"license": "MIT",
