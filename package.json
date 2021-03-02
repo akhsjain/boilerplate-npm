@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Akshay Jain",
 	"description": "Demo Project",
+	"license": "MIT",
 	"keywords": [
 		"Node",
 		"express",
@@ -18,5 +19,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"license": "MIT"
 }
